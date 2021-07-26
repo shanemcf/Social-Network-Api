@@ -4,21 +4,19 @@
     "description": "",
     "main": "server.js",
     "dependencies": {
-      "express": "^4.17.1",
-      "mongoose": "^5.10.17",
-      "node": "^15.2.1"
+        "express": "^4.17.1",
+        "moment": "^2.29.1",
+        "mongoose": "^5.13.3",
+        "node": "^15.2.1"
     },
-    "devDependencies": {},
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "node server.js"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
     },
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/suschuk24/new-social-network.git"
+        "type": "git",
+        "url": "git+https://github.com/suschuk24/new-social-network.git"
     },
     "author": "",
     "license": "ISC"
-       
-    
 }
